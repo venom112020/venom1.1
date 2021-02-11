@@ -1,4 +1,5 @@
 {
 "venomApi":"https://devapi.venomplay.com",
- "venomStatistic":"https://analytics.venomplay.com"
+ "venomStatistic":"https://analytics.venomplay.com",
+ "downloadApp":"https://downloadapps.pro"
 }
