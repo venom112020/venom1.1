@@ -1,5 +1,6 @@
 {
 "venomApi":"https://api.venomplay.com",
  "venomStatistic":"https://analytics.venomplay.com",
- "downloadApp":"https://downloadapps.pro"
+ "downloadApp":"https://downloadapps.pro",
+ "shareLink":"https://downloadapps.pro/share/"
 }
