@@ -1,7 +1,7 @@
 {
 "versionCode":23,
  "versionName":"1.2.12",
- "content":"${android.text.util.Linkify.WEB_URLS.also { (view!!.findViewById<View>(R.id.content1) as TextView).autoLinkMask = it }} Хорошая новость: теперь мы в PlayMarket! \n\n Для получения обновлений приложения рекомендуем удалить старую версию и установить актуальную с PlayMarket. \n\n ZetSeria - https://downloadapps.pro/share/a2476472-3070-4888-abc4-d52abfdc512f  \n\n Zombie - https://downloadapps.pro/share/694036b9-99e1-4320-8c0a-41254e109b2f \n\n Joyfilm - https://downloadapps.pro/share/4b4781d0-ef8b-49b5-b353-136019546d63 ",
+ "content":"${android.text.util.Linkify.WEB_URLS.also { (view!!.findViewById<android.widget.TextView>(R.id.content1)).autoLinkMask = it}} \n Хорошая новость: теперь мы в PlayMarket! \n\n Для получения обновлений приложения рекомендуем удалить старую версию и установить актуальную с PlayMarket. \n\n ZetSeria - https://downloadapps.pro/share/a2476472-3070-4888-abc4-d52abfdc512f  \n\n Zombie - https://downloadapps.pro/share/694036b9-99e1-4320-8c0a-41254e109b2f \n\n Joyfilm - https://downloadapps.pro/share/4b4781d0-ef8b-49b5-b353-136019546d63 ",
  "minSupport":21,	
  "url":"https://github.com/venom112020/venom1.1/raw/main/venomplay_1.2.11.apk"
 }
