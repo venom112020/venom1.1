@@ -2,5 +2,8 @@
 "venomApi":"https://indexx.org",
  "venomStatistic":"https://analytics.venomplay.com",
  "downloadApp":"https://downloadapps.pro",
- "shareLink":"https://downloadapps.pro/share/"
+ "shareLink":"https://downloadapps.pro/share/",
+ "webPlayer": {
+    "downloadApp": "https://downloadapps.pro"
+}
 }
